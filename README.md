@@ -90,6 +90,3 @@ Turn an LED matrix into a mesmerizing flowing “digital sand” display that re
 
 👉 [Watch on Instagram](https://www.instagram.com/reel/DYCcp-gzyjI/?igsh=MTQ3dzI4YXRjY2tjaA==)
 
-
-```md
-![LED Sand Simulation](./led_sand_simulation.png)
